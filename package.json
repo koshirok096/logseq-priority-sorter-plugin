@@ -1,6 +1,6 @@
 {
   "name": "logseq-priority-sorter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Assign A/B/C to blocks and sort them by priority in Logseq",
   "main": "dist/main.js",
   "license": "MIT",
