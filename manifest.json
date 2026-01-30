@@ -3,7 +3,7 @@
   "title": "Logseq Priority Sorter",
   "description": "Assign A/B/C priorities to blocks and sort them accordingly",
   "author": "Koshiro K (@koshirok096)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "api": "0.5.0",
   "main": "dist/main.js",
   "icon": "icon.png",
