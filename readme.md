@@ -2,6 +2,8 @@
 
 Quickly assign A/B/C priorities and sort blocks directly in Logseq.
 
+https://buymeacoffee.com/koshirok
+
 ## Usage
 
 | Action                     | Command / Shortcut                       |
